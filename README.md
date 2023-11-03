@@ -41,7 +41,7 @@ This is a solution to the [Order summary component challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-hIk_TlSjQW)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/order-summary-component-KqV9oiQeEH)
 - Live Site URL: [Live Site](https://rahimi-1997.github.io/Order-summary-component/)
 
 ## My process
